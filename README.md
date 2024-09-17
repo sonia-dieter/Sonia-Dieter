@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst</a>, <a href="https://www.linkedin.com/in/soniadieter/">
+<h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst</a>, <a href="https://www.linkedin.com/in/soniadieter2022/">
 
 <h2>👨‍💻 SQL Projects:</h2>
 
