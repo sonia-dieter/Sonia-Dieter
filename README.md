@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst <p> I’m currently working on a earning my Google Data Analytics certificates in Coursera and am excited to learn more about the field. I looking to switch careers from the veterinary field or to merge data analytics into that path.<p></a> <a href="https://www.linkedin.com/in/soniadieter2022/">
+<h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst <p> <br> I’m currently working on a earning my Google Data Analytics certificates in Coursera and am excited to learn more about the field. I looking to switch careers from the veterinary field or to merge data analytics into that path.<p></a> <a href="https://www.linkedin.com/in/soniadieter2022/">
 
 <h1>👨‍💻 SQL Projects coming soon...:</h1>
 
