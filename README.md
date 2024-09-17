@@ -1,12 +1,12 @@
 
 <h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst</a>, <a href="https://www.linkedin.com/in/soniadieter2022/">
 
-<h2>👨‍💻 SQL Projects:</h2>
+<h1>👨‍💻 SQL Projects:</h1>
 
-<h2>👨‍💻 Excel Projects:</h2>
-<h2>👨‍💻 Capstone Projects:</h2>
+<h1>👨‍💻 Excel Projects:</h1>
+<h1>👨‍💻 Capstone Projects:</h1>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
