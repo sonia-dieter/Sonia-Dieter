@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 SQL Projects:</h2>
 
-<h3>👨‍💻 Excel Projects:</h3>
+<h2>👨‍💻 Excel Projects:</h2>
 <h4>👨‍💻 Capstone Projects:</h4>
 
 <h2> 🤳 Connect with me:</h2>
