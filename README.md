@@ -1,6 +1,11 @@
 ## Hi there 👋
-I’m currently working on a earning my Google Data Analytics certificates in Coursera
+My name is Sonia. 
+I’m currently working on a earning my Google Data Analytics certificates in Coursera and am excited to learn more about the field. I looking to switch careers from th veterinary field or to merge data analytics into that path. 
 
+Things to come...
+-SQL project 
+-Excel project
+-My data analytics Capstone
 
 
 <!--
