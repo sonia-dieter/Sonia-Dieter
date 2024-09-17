@@ -1,15 +1,15 @@
 
-<h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst <p> My name is Sonia. I’m currently working on a earning my Google Data Analytics certificates in Coursera and am excited to learn more about the field. I looking to switch careers from the veterinary field or to merge data analytics into that path.<p></a>, <a href="https://www.linkedin.com/in/soniadieter2022/">
+<h1>Hi, I'm Sonia! <br/><a href="https://github.com/sonia-dieter">Data Analyst <p> I’m currently working on a earning my Google Data Analytics certificates in Coursera and am excited to learn more about the field. I looking to switch careers from the veterinary field or to merge data analytics into that path.<p></a> <a href="https://www.linkedin.com/in/soniadieter2022/">
 
-<h1>👨‍💻 SQL Projects:</h1>
+<h1>👨‍💻 SQL Projects coming soon...:</h1>
 
-<h1>👨‍💻 Excel Projects:</h1>
-<h1>👨‍💻 Capstone Projects:</h1>
+<h1>👨‍💻 Excel Projects coming soon ...:</h1>
+<h1>👨‍💻 Capstone Project coming soon ...:</h1>
 
 <h2> Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/soniadieter2022
 <!--
